@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Zeeyn, a Computer Science student and Web Developer.
+
+I enjoy building clean, modern web experiences and creating solutions through code.
+
+Currently deepening my skills in JavaScript and exploring new technologies.
+
+You can check out my projects on my [portfolio](https://zeeyndev.netlify.app/) and learn more about me on my [LinkedIn](https://www.linkedin.com/in/zineddine-zougari-992401379/).
+
 <!--
 **onlyzeeyn/onlyzeeyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
